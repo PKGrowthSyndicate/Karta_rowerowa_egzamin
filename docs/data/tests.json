@@ -1,0 +1,152 @@
+[
+  {
+    "testNumber": 1,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/1n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 2,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/2n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 3,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/3n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 4,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/4n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 5,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/5n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 6,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/6n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 7,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/7n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 8,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/8n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 9,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/9n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 10,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/10n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 11,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/11n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 12,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/12n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 13,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/13n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 14,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/14n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 15,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/15n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 16,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/16n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 17,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/17n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 18,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/18n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 19,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/19n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 20,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/20n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 21,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/21n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 22,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/22n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 23,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/23n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 24,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/24n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 25,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/25n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 26,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/26n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 27,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/27n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 28,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/28n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 29,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/29n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  },
+  {
+    "testNumber": 30,
+    "url": "https://brd.edu.pl/brd2/testy_nauka/30n.html",
+    "error": "Cannot find module 'cheerio'\nRequire stack:\n- /Users/piotrkurek/Documents/bike-exam-app/scraper-playwright.js"
+  }
+]
