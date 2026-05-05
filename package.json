@@ -1,0 +1,28 @@
+{
+  "name": "bike-exam-app",
+  "version": "1.0.0",
+  "description": "Aplikacja do nauki do egzaminu na kartę rowerową",
+  "main": "scraper.js",
+  "scripts": {
+    "scrape": "node scraper-final.js",
+    "convert": "node convert-all-tests.js",
+    "sample": "node create-sample-data.js",
+    "start": "http-server public -p 3000 -c-1"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "playwright": "^1.59.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
