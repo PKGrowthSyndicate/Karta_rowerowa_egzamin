@@ -9,7 +9,7 @@ const app = document.getElementById('app');
 
 async function loadTests() {
   try {
-    const response = await fetch('/data/parsed-tests.json');
+    const response = await fetch('data/parsed-tests.json');
     tests = await response.json();
     renderMenu();
   } catch (error) {
